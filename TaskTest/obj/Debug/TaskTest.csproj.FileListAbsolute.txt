@@ -1,0 +1,10 @@
+C:\Training\Task3_1\TaskTest\bin\Debug\TaskTest.dll
+C:\Training\Task3_1\TaskTest\bin\Debug\TaskTest.pdb
+C:\Training\Task3_1\TaskTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Training\Task3_1\TaskTest\bin\Debug\nunit.framework.dll
+C:\Training\Task3_1\TaskTest\bin\Debug\Task3_1.exe
+C:\Training\Task3_1\TaskTest\bin\Debug\Task3_1.pdb
+C:\Training\Task3_1\TaskTest\bin\Debug\nunit.framework.xml
+C:\Training\Task3_1\TaskTest\obj\Debug\TaskTest.csprojResolveAssemblyReference.cache
+C:\Training\Task3_1\TaskTest\obj\Debug\TaskTest.dll
+C:\Training\Task3_1\TaskTest\obj\Debug\TaskTest.pdb
